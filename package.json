@@ -3,5 +3,15 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/Authshujianchen/SDK.git",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "authing-js-sdk": "^4.15.1",
+    "babel-cli": "^6.26.0",
+    "browserify": "^17.0.0",
+    "eslint": "^7.23.0",
+    "node-fetch": "^2.6.1",
+    "prettier": "^2.2.1"
+  },
+  "devDependencies": {}
 }
